@@ -1,61 +1,128 @@
 brand,image_path
-vans,vans/1.jpg
-vans,vans/2.jpg
-vans,vans/3.jpg
-vans,vans/4.jpg
-vans,vans/5.jpg
-vans,vans/6.jpg
-vans,vans/7.jpg
-vans,vans/8.jpg
-vans,vans/9.jpg
-vans,vans/10.jpg
-vans,vans/11.jpg
-vans,vans/12.jpg
-vans,vans/13.jpg
-vans,vans/14.jpg
-vans,vans/15.jpg
-vans,vans/16.jpg
-vans,vans/17.jpg
-vans,vans/18.jpg
-vans,vans/20.jpg
-vans,vans/21.jpg
-vans,vans/22.jpg
-vans,vans/19.jpg
-nike,nike/1.jpg
-nike,nike/2.jpg
-nike,nike/3.jpg
-nike,nike/4.jpg
-nike,nike/5.jpg
-nike,nike/6.jpg
-nike,nike/7.jpg
-nike,nike/8.jpg
-nike,nike/9.jpg
-nike,nike/10.jpg
-nike,nike/11.jpg
-converse,converse/1.jpg
-converse,converse/2.jpg
-converse,converse/3.jpg
-converse,converse/4.jpg
-converse,converse/5.jpg
-converse,converse/6.jpg
-converse,converse/7.jpg
-converse,converse/8.jpg
-converse,converse/9.jpg
-converse,converse/10.jpg
-converse,converse/11.jpg
-converse,converse/12.jpg
-converse,converse/13.jpg
-converse,converse/14.jpg
-converse,converse/15.jpg
-converse,converse/16.jpg
-converse,converse/17.jpg
-timberland,timberland/1.jpg
-timberland,timberland/2.jpg
-timberland,timberland/3.jpg
-timberland,timberland/4.jpg
-timberland,timberland/5.jpg
-timberland,timberland/6.jpg
-timberland,timberland/7.jpg
-timberland,timberland/8.jpg
-timberland,timberland/9.jpg
-timberland,timberland/10.jpg
+Vans,vans/1.jpg
+Vans,vans/2.jpg
+Vans,vans/3.jpg
+Vans,vans/4.jpg
+Vans,vans/5.jpg
+Vans,vans/6.jpg
+Vans,vans/7.jpg
+Vans,vans/8.jpg
+Vans,vans/9.jpg
+Vans,vans/10.jpg
+Vans,vans/11.jpg
+Vans,vans/12.jpg
+Vans,vans/13.jpg
+Vans,vans/14.jpg
+Vans,vans/15.jpg
+Vans,vans/16.jpg
+Vans,vans/17.jpg
+Vans,vans/18.jpg
+Vans,vans/20.jpg
+Vans,vans/21.jpg
+Vans,vans/22.jpg
+Vans,vans/19.jpg
+Nike,nike/1.jpg
+Nike,nike/2.jpg
+Nike,nike/3.jpg
+Nike,nike/4.jpg
+Nike,nike/5.jpg
+Nike,nike/6.jpg
+Nike,nike/7.jpg
+Nike,nike/8.jpg
+Nike,nike/9.jpg
+Nike,nike/10.jpg
+Nike,nike/11.jpg
+Nike,nike/Nike Air Force 1 Low/1.jpg
+Nike,nike/Nike Air Force 1 Low/2.jpg
+Nike,nike/Nike Air Force 1 Low/3.jpg
+Nike,nike/Nike Air Force 1 Low/4.jpg
+Nike,nike/Nike Air Force 1 Low/5.jpg
+Nike,nike/Nike Air Force 1 Low/6.jpg
+Nike,nike/Nike Air Force 1 Low/7.jpg
+Nike,nike/Nike Air Force 1 Low/8.jpg
+Nike,nike/Nike Air Force 1 Low/9.jpg
+Nike,nike/Nike Air Max 90/1.jpg
+Nike,nike/Nike Air Max 90/2.jpg
+Nike,nike/Nike Air Max 90/3.jpg
+Nike,nike/Nike Air Max 90/4.jpg
+Nike,nike/Nike Air Max 90/5.jpg
+Nike,nike/Nike Air Max 90/6.jpg
+Nike,nike/Nike Air Max 90/7.jpg
+Nike,nike/Nike Air Max 90/8.jpg
+Nike,nike/Nike Air Max 90/9.jpg
+Nike,nike/Nike Air Max 90/10.jpg
+Nike,nike/Nike Air Max 90/11.jpg
+Nike,nike/Nike Air Max 90/12.jpg
+Nike,nike/Nike Air Max 90/13.jpg
+Nike,nike/Nike Air Max 90/14.jpg
+Nike,nike/Nike Air Max 90/15.jpg
+Nike,nike/Nike Air Max 90/16.jpg
+Nike,nike/Nike Air Max 90/17.jpg
+Nike,nike/Nike Air Max 90/18.jpg
+Nike,nike/Nike Air Max 90/19.jpg
+Nike,nike/Nike Air Max 90/20.jpg
+Nike,nike/Nike Air Max 90/21.jpg
+Nike,nike/Nike Air Max 90/22.jpg
+Nike,nike/Nike Air Max 90/23.jpg
+Nike,nike/Nike Air Max 90/24.jpg
+Nike,nike/Nike Air Max 90/25.jpg
+Nike,nike/Nike Air Max 90/26.jpg
+Nike,nike/Nike Air Max 90/27.jpg
+Nike,nike/Nike Air Max 90/28.jpg
+Nike,nike/Nike Air Max 90/29.jpg
+Nike,nike/Nike Air Max 90/30.jpg
+Nike,nike/Nike Blazer Low/1.jpg
+Nike,nike/Nike Blazer Low/2.jpg
+Nike,nike/Nike Blazer Low/3.jpg
+Nike,nike/Nike Blazer Low/4.jpg
+Nike,nike/Nike Blazer Low/5.jpg
+Nike,nike/Nike Blazer Low/6.jpg
+Nike,nike/Nike Blazer Low/7.jpg
+Nike,nike/Nike Blazer Low/8.jpg
+Nike,nike/Nike Book 1/1.jpg
+Nike,nike/Nike Book 1/2.jpg
+Nike,nike/Nike Book 1/3.jpg
+Nike,nike/Nike Vaporfly 3/1.jpg
+Nike,nike/Nike Vaporfly 3/2.jpg
+Nike,nike/Nike Vaporfly 3/3.jpg
+Nike,nike/Nike Vaporfly 3/4.jpg
+Nike,nike/Nike Vaporfly 3/5.jpg
+Nike,nike/Nike Vaporfly 3/6.jpg
+Nike,nike/Nike Vaporfly 3/7.jpg
+Nike,nike/Nike Vaporfly 3/8.jpg
+Nike,nike/Nike Vaporfly 3/9.jpg
+Nike,nike/Nike Vaporfly 3/10.jpg
+Nike,nike/Nike Vaporfly 3/12.jpg
+Nike,nike/Nike Vaporfly 3/13.jpg
+Nike,nike/Nike Vaporfly 3/14.jpg
+Nike,nike/Nike Vaporfly 3/15.jpg
+Nike,nike/Nike Vaporfly 3/16.jpg
+Nike,nike/Nike Vaporfly 3/17.jpg
+Nike,nike/Nike Vaporfly 3/18.jpg
+Converse,converse/1.jpg
+Converse,converse/2.jpg
+Converse,converse/3.jpg
+Converse,converse/4.jpg
+Converse,converse/5.jpg
+Converse,converse/6.jpg
+Converse,converse/7.jpg
+Converse,converse/8.jpg
+Converse,converse/9.jpg
+Converse,converse/10.jpg
+Converse,converse/11.jpg
+Converse,converse/12.jpg
+Converse,converse/13.jpg
+Converse,converse/14.jpg
+Converse,converse/15.jpg
+Converse,converse/16.jpg
+Converse,converse/17.jpg
+Timberland,timberland/1.jpg
+Timberland,timberland/2.jpg
+Timberland,timberland/3.jpg
+Timberland,timberland/4.jpg
+Timberland,timberland/5.jpg
+Timberland,timberland/6.jpg
+Timberland,timberland/7.jpg
+Timberland,timberland/8.jpg
+Timberland,timberland/9.jpg
+Timberland,timberland/10.jpg
